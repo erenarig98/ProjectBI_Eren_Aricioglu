@@ -1,6 +1,6 @@
 # InsightBoard
 
-Vite + React + SCSS ile hazırlanmış basit iş zekâsı dashboard'u.
+Vite + React + SCSS ile hazırlanmış basit iş zekâsı ve dashboard tasarlama uygulaması.
 
 ## Çalıştırma
 
